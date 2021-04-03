@@ -1,0 +1,44 @@
+@font-face {
+	font-family: 'CerealBlack';
+	src: url('cereal/black.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'CerealBold';
+	src: url('cereal/bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CerealBook';
+	src: url('cereal/book.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'CerealExtraBold';
+	src: url('cereal/extraBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'CerealLight';
+	src: url('cereal/light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CerealMedium';
+	src: url('cereal/medium.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

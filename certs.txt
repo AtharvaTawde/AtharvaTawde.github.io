@@ -1,0 +1,19 @@
+Learn the Command Line Course: 10/23/2015
+Learn Git Course: 1/2/2016
+How to Make a Website with NameCheap Course: 3/7/2016
+Learn Java Course: 6/26/2016
+Learn Sass Course: 6/26/2016
+How to Deploy a Website Course: 6/26/2016
+Learn AngularJS 1.X Course: 7/3/2016
+Learn Authentication with Ruby on Rails Course: 7/3/2016
+Learn Ruby on Rails Course: 7/3/2016
+Learn to Program in Javascript: Beginner to Pro: 7/24/2017
+Learn React Course: 2/25/2018
+Learn Responsive Design Course: 3/1/2018
+Learn React.js: Part II Course: 3/1/2018
+Introduction to Git and GitHub: 7/6/2020
+Crash Course on Python: 7/17/2020
+Configuration Management and the Cloud: 8/4/2020
+Using Python to Interact with the Operating System: 9/26/2020
+Troubleshooting and Debugging Techniques: 2/10/2021
+Automating Real-World Tasks with Python: 2/12/2021
