@@ -4,7 +4,6 @@
 
 :root {
 	--indent-width: 10vw;
-	--certification-indent: 10vw;
 }
 
 html, body {
@@ -30,8 +29,8 @@ html, body {
 }
 
 .statistics-container {
-	padding-left: var(--certification-indent);
-	padding-right: var(--certification-indent);
+	padding-left: var(--indent-width);
+	padding-right: var(--indent-width);
 	word-wrap: break-word;
 	width: 100vw;
 	table-layout: fixed;
@@ -48,7 +47,7 @@ html, body {
 	padding-bottom: 5vw;
 }
 
-p, h1, h2, a, td {
+p, h1, h2, a, td, h6 {
 	color: white;
 }
 
@@ -91,6 +90,7 @@ td {
 
 p {
 	font-size: 1.5vh;
+	padding-left: var(--indent-width);
 }
 
 h1 {
@@ -100,7 +100,12 @@ h1 {
 
 h2 {
 	font: 2.5vh;
-	padding-left: var(--certification-indent);
+	padding-left: var(--indent-width);
+	font-family: 'CerealBold', sans-serif;
+}
+
+h6 {
+	padding-left: var(--indent-width);
 	font-family: 'CerealBold', sans-serif;
 }
 
