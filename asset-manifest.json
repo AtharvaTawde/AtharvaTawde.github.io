@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/AtharvaTawde.github.io/static/css/main.baa246b6.chunk.css",
+    "main.js": "/AtharvaTawde.github.io/static/js/main.55804af8.chunk.js",
+    "main.js.map": "/AtharvaTawde.github.io/static/js/main.55804af8.chunk.js.map",
+    "runtime-main.js": "/AtharvaTawde.github.io/static/js/runtime-main.3778ea58.js",
+    "runtime-main.js.map": "/AtharvaTawde.github.io/static/js/runtime-main.3778ea58.js.map",
+    "static/js/2.6c49fa36.chunk.js": "/AtharvaTawde.github.io/static/js/2.6c49fa36.chunk.js",
+    "static/js/2.6c49fa36.chunk.js.map": "/AtharvaTawde.github.io/static/js/2.6c49fa36.chunk.js.map",
+    "index.html": "/AtharvaTawde.github.io/index.html",
+    "static/css/main.baa246b6.chunk.css.map": "/AtharvaTawde.github.io/static/css/main.baa246b6.chunk.css.map",
+    "static/js/2.6c49fa36.chunk.js.LICENSE.txt": "/AtharvaTawde.github.io/static/js/2.6c49fa36.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/AtharvaTawde.github.io/static/media/medium.98977440.ttf",
+    "static/media/cockroach.d533cf77.png": "/AtharvaTawde.github.io/static/media/cockroach.d533cf77.png",
+    "static/media/github.f3d29f68.png": "/AtharvaTawde.github.io/static/media/github.f3d29f68.png",
+    "static/media/java.648d2687.png": "/AtharvaTawde.github.io/static/media/java.648d2687.png",
+    "static/media/namecheap.14fad578.png": "/AtharvaTawde.github.io/static/media/namecheap.14fad578.png",
+    "static/media/react.e0b202b2.png": "/AtharvaTawde.github.io/static/media/react.e0b202b2.png",
+    "static/media/ror.09ab9078.png": "/AtharvaTawde.github.io/static/media/ror.09ab9078.png",
+    "static/media/sass.32fab36e.png": "/AtharvaTawde.github.io/static/media/sass.32fab36e.png",
+    "static/media/web.554e7ba2.png": "/AtharvaTawde.github.io/static/media/web.554e7ba2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3778ea58.js",
+    "static/js/2.6c49fa36.chunk.js",
+    "static/css/main.baa246b6.chunk.css",
+    "static/js/main.55804af8.chunk.js"
+  ]
+}
